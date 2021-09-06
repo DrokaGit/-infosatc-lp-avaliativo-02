@@ -1,0 +1,11 @@
+nume1 = (input("Digite um nome"))
+nume2 = (input("Digite um nome"))
+nume3 = (input("Digite um nome"))
+nume4 = (input("Digite um nome"))
+nume5 = (input("Digite um nome"))
+lista_nova =[nume1,nume2,nume3,nume4,nume5]
+print("Encontrando a posição de um item na lista: ", lista_nova.index("Carol"))
+print("Encontrando a posição de um item na lista: ", lista_nova.index("Jamelão"))
+print("Encontrando a posição de um item na lista: ", lista_nova.index("Marcio"))
+print("Encontrando a posição de um item na lista: ", lista_nova.index("Ronaldo"))
+print("Encontrando a posição de um item na lista: ", lista_nova.index("Tomas"))
